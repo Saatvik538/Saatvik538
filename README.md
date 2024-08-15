@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saatvik538
 - 👀 I’m interested in ... AI, Machine Learning, and Blockchain technology
-- 🌱 I’m currently learning ... Supervised Learning
+- 🌱 I’m currently learning ... GPU Programming and Transformer Networks
 - 💞️ I’m looking to collaborate on ... Future Projects
 - 📫 How to reach me ... saatvikkesarwani@gmail.com
 - 😄 Pronouns: ... He/Him
